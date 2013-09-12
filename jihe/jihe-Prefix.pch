@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'jihe' target in the 'jihe' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
